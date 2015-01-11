@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "q": "^1.1.2"
+  },
+  "name": "codeAuthorship",
+  "version": "1.0.0",
+  "description": "Crude code authorship detection tool",
+  "main": "main.js",
+  "dependencies": {
+    "q": "^1.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/parenparen/textClassification"
+  },
+  "keywords": [
+    "logistic",
+    "regression",
+    "experiment",
+    "failed"
+  ],
+  "author": "Derek Mueller",
+  "bugs": {
+    "url": "https://github.com/parenparen/textClassification/issues"
+  },
+  "homepage": "https://github.com/parenparen/textClassification"
+}
